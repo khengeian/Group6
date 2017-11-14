@@ -5,7 +5,6 @@
     "nodejs",
     "express"
   ],
-  "website": "https://github.com/khengeian/Group6",
   "repository": "https://github.com/khengeian/Group6.git",
   "logo": "https://nodejs.org/images/logos/nodejs.png"
 }
