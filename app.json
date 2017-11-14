@@ -5,7 +5,7 @@
     "nodejs",
     "express"
   ],
-  "website": "https://github.com/SCMGroup6/Group6/TEST",
+  "website": "https://github.com/SCMGroup6",
   "repository": "https://github.com/SCMGroup6/Group6.git",
-  "logo": "https://www.google.com/search?q=logo&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjrx5CM57vXAhUGp48KHWweDuIQ_AUICigB&biw=1396&bih=646#imgrc=S3kThdOTsH86EM:"
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
 }
